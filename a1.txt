@@ -1,1 +1,4 @@
 a1 file modified in master branch
+Content from master branch
+Content from feature branch
+a1 file modified again in master branch
